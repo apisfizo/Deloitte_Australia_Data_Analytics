@@ -18,13 +18,14 @@ This simulation mimics a real-world consulting scenario, where I assumed the rol
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Tools Used
 
-| Tool        | Purpose                         |
-|-------------|----------------------------------|
-| **Excel**   | Data classification, calculations, filtering |
-| **Tableau** | Interactive data dashboard & visualization |
-| **Forage**  | Realistic work-based simulation  |
+| Tool/Technology | Description |
+|-----------------|-------------|
+| **Microsoft Excel** | Used for cleaning and classifying raw data, applying conditional formatting, and filtering suspicious transactions |
+| **Tableau Public** | Created an interactive dashboard to visualize key metrics, trends, and highlight risk areas |
+| **Forage Platform** | Provided a realistic job simulation experience with task instructions and dataset |
+| **Markdown/GitHub** | Documented the project and presented work professionally in a version-controlled environment |
 
 ---
 
