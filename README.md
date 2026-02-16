@@ -57,16 +57,6 @@ This simulation mimics a real-world consulting scenario, where I assumed the rol
 
 ---
 
-## 🎯 Why This Matters to Employers
-
-This simulation closely mirrors the type of work performed by analysts in high-stakes industries such as consulting, fintech, and auditing. It demonstrates my ability to:
-
-- Work independently on ambiguous data problems
-- Use analytical tools to uncover risks
-- Communicate findings in a clear, concise, and visual way
-
----
-
 ## 📎 Supporting Files
 
 - 📄 `task_5_equalitytable_updated.xlsx` – Cleaned and annotated dataset
@@ -79,7 +69,7 @@ This simulation closely mirrors the type of work performed by analysts in high-s
 If you're looking for a **data-driven problem solver** who's eager to apply real-world insights to your organization, I’d love to chat!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hafizuddin-33619a205)  
-📧 apisfizo11@gmail.com
+📧 hafizuddinothman11@gmail.com
 
 ---
 
